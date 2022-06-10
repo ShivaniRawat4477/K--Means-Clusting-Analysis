@@ -1,2 +1,2 @@
-# K--Means-Clusting-Analysis
+# K--Means-Clustering-Analysis
 Customer Segmentation case study- Mall Data
